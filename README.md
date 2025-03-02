@@ -30,7 +30,7 @@ I'm a **Flutter developer** passionate about building responsive, scalable, and 
 > - Secure authentication and authorization
 > - Scalable backend architectures
 
-
+> - Note: Many of the projects I've developed for clients are maintained as private repositories to ensure confidentiality and protect their proprietary solutions. This is why my public GitHub profile may appear to have fewer repositories. These private projects include custom-built applications tailored to meet specific business requirements, emphasizing security, scalability, and exclusivity for my clients. If you'd like to discuss my work further or see examples of my capabilities, feel free to reach out—I'd be happy to provide additional insights or collaborate on new ideas!
 ---
 
 ### 📫 Let's Connect!
