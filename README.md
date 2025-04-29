@@ -1,6 +1,6 @@
 ### Hi there, I'm Solomon Baidoo (Genius Mania) 👋
 
-I'm a **Flutter developer** passionate about building responsive, scalable, and user-friendly **mobile and web applications**. I specialize in **Flutter web** and **mobile development**, leveraging **GetX** for efficient state management. On the backend, I work with **Node.js**, **Express**, and **MongoDB**, along with **MySQL** for relational database management.
+I'm a **Flutter developer** passionate about building responsive, scalable, and user-friendly **mobile and web applications**. I specialize in **Flutter web** and **mobile development**, leveraging **GetX** for efficient state management. On the backend, I work with **Node.js**, **Express**, and **MongoDB**, along with **Postgres** for relational database management.
 
 ---
 
@@ -10,15 +10,6 @@ I'm a **Flutter developer** passionate about building responsive, scalable, and 
 - 📱 Proficient in building cross-platform mobile apps using **Flutter**.
 - 🔒 Focused on implementing secure and efficient backend solutions with **Node.js**, **MongoDB**, and **MySQL**.
 - 🌱 Continuously learning and exploring new technologies to deliver top-notch solutions.
-
----
-
-### 🛠️ Tech Stack
-- **Frontend:** Flutter (Mobile & Web), GetX
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Storage:** Supabase Storage
-- **Tools & Platforms:** GitHub, Firebase, Supabase
 
 ---
 
